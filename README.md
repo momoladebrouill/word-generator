@@ -1,2 +1,2 @@
-# word-generator
- pour creer des mots en français
+# World Generator
+ pour générer des mots en français, avec une IA de malade wlh
