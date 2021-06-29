@@ -7,7 +7,6 @@ for i in range(4,15):
   print(df['mot'][i],i)
 """
 import random
-import keyboard
 import time
 f=open('mots.csv','r').read()
 def recurence(lis):
